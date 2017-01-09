@@ -1,2 +1,2 @@
 # SwiftlyRater
-A simple and lightweight app rater, written in Swift 3
+A simple and lightweight Review Manager for iOS, written in Swift 3
