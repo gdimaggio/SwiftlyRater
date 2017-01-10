@@ -3,15 +3,23 @@ A simple and lightweight Review Manager for iOS, written in Swift 3
 
 ## What is it?
 
-At its core, SwiftlyRater is an UIAlertController which gets presented to users whenever specific conditions are met, given them the option to rate the app. It's no mistery that users are more inclined to leave a bad review for an application when things don't function properly, rather than writing a positive review when everything works smoothly. SwiftlyRater aims to bring some balance in the game, so that your most loyal and active users are reminded once in a while to show their appreaciation with a nice review on the AppStore.
+At its core, SwiftlyRater is an UIAlertController which gets presented to users whenever specific conditions are met, giving them the option to rate the app. It's no mistery that users are more inclined to leave a bad review for an application when things don't function properly, rather than writing a positive review when everything works smoothly. SwiftlyRater aims to bring some balance in the game, so that your most loyal and active users are reminded to show their appreaciation with a nice review on the AppStore.
 
 ##### Easy to Setup
 
+You can get SwiftlyRater up and running with just one line of code, no other configuration required.
+
 ##### Localization
+
+SwiftlyRater currently supports 4 languages out of the box - English, Spanish, French, Italian - with more languages on the way!
 
 ##### Configurable
 
-##### Up to Date
+SwiftlyRater exposes an handful of properties you can customise to obtain the required behaviour for your app, nothing more than that!
+
+##### Simple and Lightweight
+
+SwiftlyRater has been built with simplicity in mind, keeping it simple and short by taking advantage of what Swift 3 has to offer. 
 
 ## Requirements
 
@@ -63,7 +71,7 @@ The `applicationName` is primarily used in the title of the review popup, and by
 SwiftlyRater.sharedInstance.applicationName = "Your Custom Name"
 ```
 
-The `reviewTitle` is the title of review popup, by default set to "Rate \<applicationame\>". This can be customised too:
+The `reviewTitle` is the title of review popup, by default set to `Rate \<applicationame\>`. This can be customised too:
 
 ```swift
 SwiftlyRater.sharedInstance.reviewTitle = "Custom Title"
@@ -192,10 +200,9 @@ The ultimate goal is to make SwiftlyRater the best Review Manager out there, so 
 
 ## Acknoledgments
 
-- [Appirater](https://github.com/arashpayan/appirater) 
-- 
--
--
+- [Appirater](https://github.com/arashpayan/appirater) for giving me inspiration and solid grounds where to start with SwiftlyRater.
+- [Andyy Hope](https://medium.com/swift-programming/swift-userdefaults-protocol-4cae08abbf92#.3ujvonwx1) for an inspiring article on UserDefaults and Protocols.
+- [Sauvik Dolui](https://medium.com/@sauvik_dolui/network-status-monitoring-on-ios-part-1-9a22276933dc#.ucogr6tft) for a great tutorial on Reachability. 
 
 ## License
 
