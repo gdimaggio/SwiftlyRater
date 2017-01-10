@@ -1,6 +1,10 @@
 # SwiftlyRater
 A simple and lightweight Review Manager for iOS, written in Swift 3
 
+## Screenshots
+
+![ScreenShot](/Screenshots/screenshot.png)
+
 ## What is it?
 
 At its core, SwiftlyRater is an UIAlertController which gets presented to users whenever specific conditions are met, giving them the option to rate your app. It's no mistery that users are more inclined to leave a bad review for an application when things don't function properly, rather than writing a positive review when everything works smoothly. SwiftlyRater aims to bring some balance to the game, so that your most loyal and active users are reminded to show their appreaciation with a nice review on the AppStore.
