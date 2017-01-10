@@ -1,0 +1,17 @@
+/* 
+  SwiftlyRaterLocalizable.strings
+  SwiftlyRaterSample
+
+  Created by Gianluca Di maggio on 1/7/17.
+  Copyright © 2017 dima. All rights reserved.
+*/
+
+"Enjoying the app? Please take a moment to leave a five-star review on the AppStore! Your support is very much appreciated!" = "Ti piace l'app? Dedica qualche secondo per lasciare una valutazione sull'AppStore. Ti ringraziamo moltissimo per il supporto!";
+
+"Rate Now" = "Valuta ora";
+
+"Rate %@" = "Valuta %@";
+
+"No Thanks" = "No, grazie";
+
+"Maybe Later" = "Forse piu tardi";
