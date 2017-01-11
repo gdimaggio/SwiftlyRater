@@ -3,7 +3,7 @@ A simple and lightweight Review Manager for iOS, written in Swift 3
 
 ## Screenshots
 
-![ScreenShot](/Screenshots/screenshot.png)
+![ScreenShot](Example/Screenshots/screenshot.png)
 
 ## What is it?
 
