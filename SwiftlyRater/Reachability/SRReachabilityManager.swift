@@ -28,6 +28,7 @@ class SRReachabilityManager: NSObject {
 
     func reachabilityChanged(notification: Notification) {
         if let reachability = notification.object as? Reachability {
+            self.reachabilityStatus = reachability.currentReachabilityStatus
             self.delegate?.networkStatusDidChange(status: reachability.currentReachabilityStatus)
         }
     }
