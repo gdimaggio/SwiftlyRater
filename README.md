@@ -202,7 +202,7 @@ The ultimate goal is to make SwiftlyRater the best Review Manager out there, so 
 
 ## Acknoledgments
 
-- [Appirater](https://github.com/arashpayan/appirater) for giving me inspiration and solid grounds where to start with SwiftlyRater.
+- [Armchair](https://github.com/UrbanApps/Armchair) for giving me inspiration and solid grounds where to start with SwiftlyRater.
 - [Andyy Hope](https://medium.com/swift-programming/swift-userdefaults-protocol-4cae08abbf92#.3ujvonwx1) for an inspiring article on UserDefaults and Protocols.
 - [Sauvik Dolui](https://medium.com/@sauvik_dolui/network-status-monitoring-on-ios-part-1-9a22276933dc#.ucogr6tft) for a great tutorial on Reachability. 
 
